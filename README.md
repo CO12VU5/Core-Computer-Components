@@ -55,9 +55,10 @@ SSD:
 
 10. Expansion Cards (Sound Card, Capture Card, RAID Controller, etc.) – Adds extra functionalities.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5d211cb7-942a-4944-96b9-367fec1d0f0f)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dc81c116-be6b-40b0-bff1-18dc9bf55850)
+
 
 
 
