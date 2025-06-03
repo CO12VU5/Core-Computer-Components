@@ -3,7 +3,7 @@
 Computer are made up of 10 components:
 1. Central Processing Unit (CPU) – The brain of the computer that processes instructions.
 
-![image](https://github.com/user-attachments/assets/164b5a7b-3660-4672-82c8-7ced7be5d848)
+![image](https://github.com/user-attachments/assets/d6c17caa-0e5b-42f1-9f6a-2588e5480a3a)
 
 
 2. Motherboard – The main circuit board that connects all components together.
