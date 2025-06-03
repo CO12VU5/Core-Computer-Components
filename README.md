@@ -66,4 +66,4 @@ So why is this important?:
 - All these hardware are working together allowing a system to operate
 - When a user uses an application it will use the resource from one or more of the hardware
 - So any incident or cyber attack we can trace back to either one of these hardware
-- Knowing the hardware/components will make troubleshooting easierl
+- Knowing the hardware/components will make troubleshooting proccess faster
